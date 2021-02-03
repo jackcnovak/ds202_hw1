@@ -1,1 +1,18 @@
 
+---
+title: 'Partner 2'
+author: "Eric Steyer"
+output: html_document
+---
+
+
+Name: Eric Steyer
+
+Username: ersteyer
+
+In the most recent commit, the partner added the Homework 1 Rmd and html files.
+Commit ID: 706073f2ab7459585ccbb3ead4a4e5e4743d3d49
+
+The only error in the knitting of the file came with the image, as it said that there is no such file or directory, so it was probably a local file on the computer.
+
+I think that the biggest difficulty for me is learning the git bash code and how to navigate through directories.

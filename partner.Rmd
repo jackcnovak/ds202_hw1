@@ -1,1 +1,19 @@
+---
+title: 'Partner Changes'
+author: 'Ryan Scehovic'
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Ryan Scehovic and my github username is scehovic
+
+The Owner, Jack Novak, added his 2 files in the most recent commit. The commit id is 706073f2ab7459585ccbb3ead4a4e5e4743d3d49
+
+I was not able to knit the hw1.Rmd file because Jack saved the image to his personal computer and I don't have that same image on my computer so the execution halted. That was the only error his hw1.Rmd file gave. To test it, I temporarly deleted the image part in the Rmd file and his file would properly knit, but I did add back in the image part after testing that.  
+
+The most difficult part was navigating each others repos and keeping things organized between our group of 3. 
 
